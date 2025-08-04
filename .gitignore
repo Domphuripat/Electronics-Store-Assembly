@@ -1,0 +1,9 @@
+# Ignore Turbo Assembler generated files
+*.OBJ
+*.EXE
+*.LST
+*.MAP
+*.BAK
+*.TMP
+*.~*
+*.zip
