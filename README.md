@@ -38,3 +38,31 @@ This is an interactive **Electronics Store Inventory System** built using **16-b
 1. Download [DOSBox](https://www.dosbox.com/download.php?main=1)
 2. Extract project files to a folder (e.g., `C:\DOS\Store`)
 3. Open DOSBox and mount the folder:
+mount C C:\DOS\Store
+        C:PHURIPAT.EXE
+4. Follow the on-screen menu to interact with the system.
+
+---
+
+## 📚 Course Details
+
+- **Subject**: CT073-3-2-CSLLT — Computer System Low Level Techniques  
+- **Lecturer**: TS. Umapathy Eaganathan  
+- **Student**: Phuripat Tanapraditkul  
+- **TP Number**: TP071572  
+- **Submission Date**: 20 May 2025
+
+---
+
+## 🔐 License
+
+This project is released under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it for educational purposes.
+
+---
+
+## 🌟 Acknowledgment
+
+Thanks to **Asia Pacific University (APU)** and the CSLLT faculty for the opportunity to explore low-level programming through practical application.
+
+
